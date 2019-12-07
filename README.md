@@ -1,6 +1,8 @@
 # ImageClassifier-ASL-FastAI
 Image Classification Model to Classify American Sign Language images
 
+Dataset: https://www.kaggle.com/mrgeislinger/asl-rgb-depth-fingerspelling-spelling-it-out
+
 # Currently working on improving web app
 
 - test out model at: https://alexaslclassifier.onrender.com/
