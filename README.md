@@ -1,7 +1,7 @@
 # ImageClassifier-ASL-FastAI
 Image Classification Model to Classify American Sign Language images
 
-# Currently working on improving web app deployment
+# Currently working on improving web app
 
 - model is hosted at: https://alexaslclassifier.onrender.com/
 
